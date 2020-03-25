@@ -9,6 +9,7 @@ Stay Home. Improve yourself.
 ## Categories:
 *  [Android](#android)
 *  [iOS](#ios)
+*  [Java](#java)
 *  [JavaScript](#javascript)
 *  [Cloud](#cloud)
 *  [Flutter](#flutter)
@@ -44,6 +45,17 @@ Stay Home. Improve yourself.
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 24.03.2020 | Paul Hudson | Swiftly Speaking: James Thomson | [link](https://www.youtube.com/watch?v=-wZGaDajQk4) |
+
+## Java
+#### *Upcoming*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 24.03.2020 | Kodcu | Effective Ve Reactive Java (16 Nisan'a kadar - 8 Oturum) | [link](https://kodcu.com/effective-ve-reactive-java-egitimi) |
+
+
+#### *Past*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
 
 ## JavaScript
 #### *Upcoming*
