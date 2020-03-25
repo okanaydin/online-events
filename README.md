@@ -1,6 +1,10 @@
 # Online Events
 
-I tried to bring together online events in the field of technology in order to spend these times more efficiently at home due to the Coronavirus. If you want to contribute to the repository, after forking the repo, you can make your changes and create a new pull request. 
+Online activities started to increase due to COVID-19. I wanted to make such a repo to make this process we spend in our house more efficient. 
+
+We can help each other as contributing and sharing.
+
+Stay Home. Improve yourself.
 
 ## Categories:
 *  [Android](#android)
