@@ -7,21 +7,21 @@ We can help each other as contributing and sharing.
 Stay Home. Improve yourself.
 
 ## Categories:
-*  [Foundations](#foundations)
 *  [Android](#android)
+*  [Cloud](#cloud)
+*  [Data Science](#data-science)
+*  [Docker](#docker)
+*  [Flutter](#flutter)
+*  [Foundations](#foundations)
 *  [iOS](#ios)
 *  [Java](#java)
 *  [JavaScript](#javascript)
-*  [Cloud](#cloud)
-*  [Flutter](#flutter)
-*  [Python](#python)
-*  [Machine Learning](#machine-learning)
-*  [UI/UX](#uiux)
-*  [Docker](#docker)
-*  [Ruby](#ruby)
-*  [React](#react)
-*  [Data Science](#data-science)
 *  [Kotlin](#kotlin)
+*  [Machine Learning](#machine-learning)
+*  [Python](#python)
+*  [React](#react)
+*  [Ruby](#ruby)
+*  [UI/UX](#uiux)
 
 ## Foundations
 #### *Upcoming*
