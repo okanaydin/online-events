@@ -12,7 +12,7 @@ Stay Home. Improve yourself.
 *  [JavaScript](#javascript)
 *  [Cloud](#cloud)
 *  [Flutter](#flutter)
-*  [Pyton](#pyton)
+*  [Python](#python)
 *  [Machine Learning](#machine-learning)
 *  [UI/UX](#uiux)
 *  [Docker](#docker)
@@ -84,7 +84,7 @@ Stay Home. Improve yourself.
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 24.03.2020 | Flutter Turkiye |Flutter Turkiye Online Meetup #1 | [link](https://www.youtube.com/watch?v=UhmHNORQY4s&feature=youtu.be) |
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 24.03.2020 | Flutter Warsaw  |Testing in Flutter + What makes Flutter performant| [link](https://zoom.us/j/107931099) |
 
-## Pyton
+## Python
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
@@ -92,7 +92,7 @@ Stay Home. Improve yourself.
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
-| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 24.03.2020 | Pyton Istanbul |Python Saati #102 - Celery ile görev tabanlı mimariye giriş | [link](https://www.meetup.com/python-istanbul/events/269524647/) |
+| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 24.03.2020 | Python Istanbul |Python Saati #102 - Celery ile görev tabanlı mimariye giriş | [link](https://www.meetup.com/python-istanbul/events/269524647/) |
 
 ## Machine Learning
 #### *Upcoming*
