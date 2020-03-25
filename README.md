@@ -7,20 +7,21 @@ We can help each other as contributing and sharing.
 Stay Home. Improve yourself.
 
 ## Categories:
-*  [Foundations](#foundations)
 *  [Android](#android)
+*  [Cloud](#cloud)
+*  [Data Science](#data-science)
+*  [Docker](#docker)
+*  [Flutter](#flutter)
+*  [Foundations](#foundations)
 *  [iOS](#ios)
 *  [Java](#java)
 *  [JavaScript](#javascript)
-*  [Cloud](#cloud)
-*  [Flutter](#flutter)
-*  [Python](#python)
+*  [Kotlin](#kotlin)
 *  [Machine Learning](#machine-learning)
-*  [UI/UX](#uiux)
-*  [Docker](#docker)
-*  [Ruby](#ruby)
+*  [Python](#python)
 *  [React](#react)
-*  [Data Science](#data-science)
+*  [Ruby](#ruby)
+*  [UI/UX](#uiux)
 
 ## Foundations
 #### *Upcoming*
@@ -186,8 +187,17 @@ Stay Home. Improve yourself.
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 25.03.2020 | Latoya Clarke & Erica Simmons |Github Actions for Android CI | [link](https://www.eventbrite.com/e/women-in-data-science-2020-kingston-tickets-94124517967?aff=ebdssbonlinesearch) |
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 27.03.2020 | QUT Centre for Data Science & Queensland Academy of Arts & Sciences	 | Data Science in the News - COVID-19 Panel Session| [link](https://www.eventbrite.com.au/e/data-science-in-the-news-covid-19-panel-session-tickets-100463366634?aff=ebdssbonlinesearch) |
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 31.03.2020 | Galvanize Remote |The Data Science Behind COVID-19 Vulnerability Index| [link](https://www.eventbrite.com/e/the-data-science-behind-covid-19-vulnerability-index-live-online-tickets-100148823828?aff=ebdssbonlinesearch)|
+
 		
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+
+		
+
+## Kotlin
+#### *Upcoming*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| <img src="https://github.com/pedrofsn/online-events/blob/master/ic_languages/ic_br.png" width="30">| 25.03.2020 | Kotlin SP |Meetup #14 (Online) - Coroutines + Android + Inline Classes & Contracts! | [link](https://www.meetup.com/kotlin-meetup-sp/events/269633943/) |
