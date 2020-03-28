@@ -4,7 +4,7 @@ Online activities started to increase due to COVID-19. I wanted to make such a r
 
 We can help each other as contributing and sharing.
 
-Stay Home. Improve yourself.
+<img src="https://github.com/okanaydin/online-events/blob/master/header_cover.jpeg">
 
 ## Categories:
 *  [Android](#android)
