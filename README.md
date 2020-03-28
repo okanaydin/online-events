@@ -77,6 +77,8 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+|:uk:| 07.04.2020 | Flutter Denver | Effective Dart for mobile developers | [link](https://www.meetup.com/Flutter-Denver/events/269189678) |
+
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
@@ -112,6 +114,7 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+| :tr:| 02.04.2020 | JUG Istanbul | Java 9 to 14: Java 9 Module API | [link](https://www.meetup.com/Istanbul-Java-User-Group/events/269629317/) |
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
@@ -136,6 +139,7 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+|:es:| 23.04.2020 | BEDU | Kotlin, el futuro del desarrollo móvil/Sesiones en vivo. | [link](https://www.eventbrite.com.mx/e/kotlin-el-futuro-del-desarrollo-movilsesiones-en-vivo-tickets-99460182082?aff=ebdssbonlinesearch) |
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
@@ -172,6 +176,7 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+|:tr:| 31.03.2020 | Python Istanbul | Python Saati #103 - Matematiksel ve Felsefi Olarak Monadlar | [link](https://www.meetup.com/python-istanbul/events/269666350/) |
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
@@ -183,6 +188,10 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+|:uk:| 31.03.2020 | Wizeline Academy | React Context for State Management | [link](https://www.eventbrite.com/e/react-context-for-state-management-online-talk-tickets-100854155494?aff=ebdssbonlinesearch) |
+|:uk:| 09.04.2020 | Wild Code School | Build your first React App | [link](https://www.eventbrite.co.uk/e/online-tech-workshop-build-your-first-react-app-tickets-100509935924?aff=ebdssbonlinesearch) |
+|:uk:| 29.04.2020 | Wild Code School | Building mobile application using React native| [link](https://www.eventbrite.co.uk/e/online-tech-workshop-building-mobile-application-using-react-native-tickets-100911216164?aff=ebdssbonlinesearch) |
+|:uk:| 17.04.2020 | React Summit | Remote Edition 2020 | [link](https://www.eventbrite.com/e/react-summit-remote-edition-2020-tickets-68861704211?aff=ebdssbonlinesearch) |
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
