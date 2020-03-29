@@ -28,6 +28,7 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+| :tr:| 01.04.2020 | GDG ISTANBUL | Android Extended #2 | [link](https://www.meetup.com/GDGIstanbul/events/269732895/)|
 | :tr:| 04.04.2020 | Android Türkiye |Android Türkiye Online Event #1 | [link](https://kommunity.com/android-turkiye/events/android-turkiye-online-meetup-1) |
 |:uk:| 20.04.2020 | Android Makers |Android Makers 2020 | [link](https://www.eventbrite.co.uk/e/android-makers-2020-tickets-60751291749?aff=ebdssbonlinebrowse) |
 
