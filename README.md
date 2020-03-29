@@ -4,7 +4,7 @@ Online activities started to increase due to COVID-19. I wanted to make such a r
 
 We can help each other as contributing and sharing.
 
-<img src="https://github.com/okanaydin/online-events/blob/master/header_cover.jpeg">
+![](https://github.com/okanaydin/online-events/blob/master/header_cover.jpeg)
 
 ## Categories:
 *  [Android](#android)
@@ -28,7 +28,6 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
-| :uk:| 28.03.2020 | GDG MAD |Github Actions for Android CI | [link](https://www.meetup.com/gdg-mad/events/269562284/) |
 | :tr:| 04.04.2020 | Android Türkiye |Android Türkiye Online Event #1 | [link](https://kommunity.com/android-turkiye/events/android-turkiye-online-meetup-1) |
 |:uk:| 20.04.2020 | Android Makers |Android Makers 2020 | [link](https://www.eventbrite.co.uk/e/android-makers-2020-tickets-60751291749?aff=ebdssbonlinebrowse) |
 
@@ -36,6 +35,7 @@ We can help each other as contributing and sharing.
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
 |:tr:| 22.02.2020 | GDG Istanbul |Android Extended #1 - Murat Yener & Yigit Boyar | [link](https://www.youtube.com/watch?v=fSaozBV5yiI) |
+| :uk:| 28.03.2020 | GDG MAD |GitHub Actions for Android CI | [link](https://www.meetup.com/gdg-mad/events/269562284/) |
 
 
 ## Cloud
@@ -60,7 +60,7 @@ We can help each other as contributing and sharing.
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
-|:uk:| 25.03.2020 | Latoya Clarke & Erica Simmons |Github Actions for Android CI | [link](https://www.eventbrite.com/e/women-in-data-science-2020-kingston-tickets-94124517967?aff=ebdssbonlinesearch) |
+|:uk:| 25.03.2020 | Latoya Clarke & Erica Simmons |GitHub Actions for Android CI | [link](https://www.eventbrite.com/e/women-in-data-science-2020-kingston-tickets-94124517967?aff=ebdssbonlinesearch) |
 | :uk:| 27.03.2020 | QUT Centre for Data Science & Queensland Academy of Arts & Sciences | Data Science in the News - COVID-19 Panel Session| [link](https://www.eventbrite.com.au/e/data-science-in-the-news-covid-19-panel-session-tickets-100463366634?aff=ebdssbonlinesearch) |
 
 ## Docker
@@ -165,11 +165,11 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
-| :ru: | 28.03.2020 | Russia PHP Community | Virtual PHP Meetup | [link](https://meetups-online.ru/virtual_php_meetup) |
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
+| :ru: | 28.03.2020 | Russia PHP Community | Virtual PHP Meetup | [link](https://meetups-online.ru/virtual_php_meetup) |
 
 
 ## Python
@@ -213,7 +213,6 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
-|:uk:| 28.03.2020 | Dr. Carmen Branje | What is UX Research? | [link](https://www.eventbrite.com/e/what-is-ux-research-tickets-99371631224?aff=ebdssbonlinesearch) |
 
 #### *Past*
 | Language | Date | Event Host | Event Name  | Event Link | 
@@ -221,5 +220,5 @@ We can help each other as contributing and sharing.
 |:uk:| 24.03.2020 | 	 Ladies That UX Cincinnati |What Makes a UX Designer | [link](https://www.eventbrite.com/e/what-makes-a-ux-designer-tickets-98090237541?aff=ebdssbonlinesearch) |
 |:es:| 24.03.2020 | The Bridge & Digital Talent Accelerator | Introducción al UX/ UI y al Design Thinking | [link](https://www.eventbrite.es/e/entradas-introduccion-al-ux-ui-y-al-design-thinking-97759959671?aff=ebdssbonlinesearch) |
 |:uk:| 25.03.2020 | Innovatemap |Design Systems Workshop (Session I of II) | [link](https://www.eventbrite.com/e/design-systems-workshop-session-i-of-ii-tickets-100162857804?aff=ebdssbonlinesearch) |
-
+|:uk:| 28.03.2020 | Dr. Carmen Branje | What is UX Research? | [link](https://www.eventbrite.com/e/what-is-ux-research-tickets-99371631224?aff=ebdssbonlinesearch) |
 		
