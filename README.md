@@ -185,7 +185,7 @@ Stay Home. Improve yourself.
 #### *Upcoming*
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
-| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 31.03.2020 | Sertaç Şamioğlu ve Dr. Yusuf Yeşil, M.D. | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
+| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 31.03.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
 		
 
 #### *Past*
