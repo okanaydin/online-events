@@ -20,6 +20,7 @@ Stay Home. Improve yourself.
 *  [Ruby](#ruby)
 *  [React](#react)
 *  [Data Science](#data-science)
+*  [IoT](#iot)
 
 ## Android
 #### *Upcoming*
@@ -173,6 +174,18 @@ Stay Home. Improve yourself.
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 25.03.2020 | Latoya Clarke & Erica Simmons |Github Actions for Android CI | [link](https://www.eventbrite.com/e/women-in-data-science-2020-kingston-tickets-94124517967?aff=ebdssbonlinesearch) |
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 27.03.2020 | QUT Centre for Data Science & Queensland Academy of Arts & Sciences	 | Data Science in the News - COVID-19 Panel Session| [link](https://www.eventbrite.com.au/e/data-science-in-the-news-covid-19-panel-session-tickets-100463366634?aff=ebdssbonlinesearch) |
 | <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_eng.png" width="30">| 31.03.2020 | Galvanize Remote |The Data Science Behind COVID-19 Vulnerability Index| [link](https://www.eventbrite.com/e/the-data-science-behind-covid-19-vulnerability-index-live-online-tickets-100148823828?aff=ebdssbonlinesearch)|
+		
+
+#### *Past*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+
+
+## IoT
+#### *Upcoming*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 31.03.2020 | Sertaç Şamioğlu ve Dr. Yusuf Yeşil, M.D. | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
 		
 
 #### *Past*
