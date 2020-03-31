@@ -63,7 +63,7 @@ We can help each other as contributing and sharing.
 | --- | --- | --- | --- | 
 | :uk: | 25.03.2020 | Latoya Clarke & Erica Simmons | [GitHub Actions for Android CI](https://www.eventbrite.com/e/women-in-data-science-2020-kingston-tickets-94124517967?aff=ebdssbonlinesearch) |
 | :uk: | 27.03.2020 | QUT Centre for Data Science & Queensland Academy of Arts & Sciences | [Data Science in the News - COVID-19 Panel Session](https://www.eventbrite.com.au/e/data-science-in-the-news-covid-19-panel-session-tickets-100463366634?aff=ebdssbonlinesearch) |
-| :uk: | 31.03.2020 | [Galvanize Remote |The Data Science Behind COVID-19 Vulnerability Index](https://www.eventbrite.com/e/the-data-science-behind-covid-19-vulnerability-index-live-online-tickets-100148823828?aff=ebdssbonlinesearch)|
+| :uk: | 31.03.2020 | Galvanize Remote | [The Data Science Behind COVID-19 Vulnerability Index](https://www.eventbrite.com/e/the-data-science-behind-covid-19-vulnerability-index-live-online-tickets-100148823828?aff=ebdssbonlinesearch)|
 
 ## Docker
 #### *Upcoming*
