@@ -29,8 +29,6 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name  |
 | --- | --- | --- | --- |
-| :tr: | 01.04.2020 | GDG ISTANBUL | [Android Extended #2](https://www.meetup.com/GDGIstanbul/events/269732895/)|
-| :tr: | 04.04.2020 | Android Türkiye | [Android Türkiye Online Event #1](https://kommunity.com/android-turkiye/events/android-turkiye-online-meetup-1) |
 | :uk: | 20.04.2020 | Android Makers | [Android Makers 2020](https://www.eventbrite.co.uk/e/android-makers-2020-tickets-60751291749?aff=ebdssbonlinebrowse) |
 
 #### *Past*
@@ -38,19 +36,21 @@ We can help each other as contributing and sharing.
 | --- | --- | --- | --- | 
 | :tr: | 22.02.2020 | GDG Istanbul | [Android Extended #1 - Murat Yener & Yigit Boyar](https://www.youtube.com/watch?v=fSaozBV5yiI) |
 | :uk: | 28.03.2020 | GDG MAD | [GitHub Actions for Android CI](https://www.meetup.com/gdg-mad/events/269562284/) |
+| :tr: | 01.04.2020 | GDG ISTANBUL | [Android Extended #2](https://www.meetup.com/GDGIstanbul/events/269732895/)|
+| :tr: | 04.04.2020 | Android Türkiye | [Android Türkiye Online Event #1](https://kommunity.com/android-turkiye/events/android-turkiye-online-meetup-1) |
 
 
 ## Cloud
 #### *Upcoming*
 | L | Date | Event Host | Event Name  | 
 | --- | --- | --- | --- | 
-| :tr: | 02.04.2020 | Google Cloud Developer Community Istanbul | [Serverless Containers with Knative and Cloud Run](https://www.meetup.com/GDG-Cloud-Istanbul/events/269509331/) |
 
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :tr: | 26.03.2020 | Google Cloud Developer Community Istanbul | [Puppeteer can automate that!](https://www.meetup.com/GDG-Cloud-Istanbul/events/269563485/) |
+| :tr: | 02.04.2020 | Google Cloud Developer Community Istanbul | [Serverless Containers with Knative and Cloud Run](https://www.meetup.com/GDG-Cloud-Istanbul/events/269509331/) |
 
 
 ## Data Science
@@ -116,20 +116,21 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :tr: | 02.04.2020 | JUG Istanbul | [Java 9 to 14: Java 9 Module API](https://www.meetup.com/Istanbul-Java-User-Group/events/269629317/) |
+
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :tr: | 24.03.2020 | Kodcu | [Effective Ve Reactive Java (16 Nisan'a kadar - 8 Oturum)](https://kodcu.com/effective-ve-reactive-java-egitimi) |
+| :tr: | 02.04.2020 | JUG Istanbul | [Java 9 to 14: Java 9 Module API](https://www.meetup.com/Istanbul-Java-User-Group/events/269629317/) |
 
 
 ## JavaScript
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 23.04.2020 | Hack Reactor | [JavaScript 101](https://www.eventbrite.com/e/webinar-javascript-101-tickets-90830132371?aff=ebdssbonlinesearch) |
 | :uk: | 14.05.2020 | Charles Max Wood | [JavaScript Remote Conf 2020](https://www.eventbrite.com/e/javascript-remote-conf-2020-tickets-98023215075?aff=ebdssbonlinesearch) |
+| :uk: | 23.04.2020 | Hack Reactor | [JavaScript 101](https://www.eventbrite.com/e/webinar-javascript-101-tickets-90830132371?aff=ebdssbonlinesearch) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
@@ -201,12 +202,12 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 04.04.2020 | IncreDEVly | [Ruby Wine](https://www.eventbrite.com/e/online-ruby-wine-tickets-80543801679?aff=ebdssbonlinesearch) |
+
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-
+| :uk: | 04.04.2020 | IncreDEVly | [Ruby Wine](https://www.eventbrite.com/e/online-ruby-wine-tickets-80543801679?aff=ebdssbonlinesearch) |
 
 ## UI/UX
 #### *Upcoming*
