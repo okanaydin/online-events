@@ -178,6 +178,7 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :tr: | 07.04.2020 | Python Istanbul | [Python Saati #104 - Pylint ile Python Kod Kalitesini Yönetmek](https://www.meetup.com/tr-TR/python-istanbul/events/269854381/) | 
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
