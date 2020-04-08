@@ -167,11 +167,12 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :ru: | 11.04.2020 | Skyeng ITeam | [Public Dispute about TDD](https://meetups-online.ru/tdd-holywar) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :ru: | 28.03.2020 | Russia PHP Community | [Virtual PHP Meetup](https://meetups-online.ru/virtual_php_meetup) |
+| :ru: | 28.03.2020 | Skyeng ITeam | [Virtual PHP Meetup](https://meetups-online.ru/virtual_php_meetup) |
 
 
 ## Python
