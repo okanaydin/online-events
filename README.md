@@ -228,11 +228,12 @@ We can help each other as contributing and sharing.
 
 ## IoT
 #### *Upcoming*
-| L | Date | Event Host | Event Name | 
-| --- | --- | --- | --- | 
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| :tr: | 15.04.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/04/kahve-sohbetleri-15-nisan-2020-online-etkinlik/) |
 		
 
 #### *Past*
-| L | Date | Event Host | Event Name | 
-| --- | --- | --- | --- | 
-| :tr: | 31.03.2020 | IoT Türkiye | [Kahve Sohbetleri (Online Etkinlik)](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| :tr: | 31.03.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
