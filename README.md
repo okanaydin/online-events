@@ -15,6 +15,7 @@ We can help each other as contributing and sharing.
 *  [Flutter](#flutter)
 *  [Foundations](#foundations)
 *  [iOS](#ios)
+*  [IoT](#iot)
 *  [Java](#java)
 *  [JavaScript](#javascript)
 *  [Kotlin](#kotlin)
@@ -24,7 +25,6 @@ We can help each other as contributing and sharing.
 *  [React](#react)
 *  [Ruby](#ruby)
 *  [UI/UX](#uiux)
-*  [IoT](#iot)
 
 ## Android
 #### *Upcoming*
@@ -123,6 +123,20 @@ We can help each other as contributing and sharing.
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :uk: | 24.03.2020 | Paul Hudson | [Swiftly Speaking: James Thomson](https://www.youtube.com/watch?v=-wZGaDajQk4) |
+
+
+
+## IoT
+#### *Upcoming*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| :tr: | 15.04.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/04/kahve-sohbetleri-15-nisan-2020-online-etkinlik/) |
+		
+
+#### *Past*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| :tr: | 31.03.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
 
 
 ## Java
@@ -237,15 +251,3 @@ We can help each other as contributing and sharing.
 | :uk: | 25.03.2020 | Innovatemap | [Design Systems Workshop (Session I of II)](https://www.eventbrite.com/e/design-systems-workshop-session-i-of-ii-tickets-100162857804?aff=ebdssbonlinesearch) |
 | :uk: | 28.03.2020 | Dr. Carmen Branje | [What is UX Research?](https://www.eventbrite.com/e/what-is-ux-research-tickets-99371631224?aff=ebdssbonlinesearch) |
 		
-
-## IoT
-#### *Upcoming*
-| Language | Date | Event Host | Event Name  | Event Link | 
-| --- | --- | --- | --- | --- |
-| :tr: | 15.04.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/04/kahve-sohbetleri-15-nisan-2020-online-etkinlik/) |
-		
-
-#### *Past*
-| Language | Date | Event Host | Event Name  | Event Link | 
-| --- | --- | --- | --- | --- |
-| :tr: | 31.03.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
