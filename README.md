@@ -91,7 +91,6 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 07.04.2020 | Flutter Denver | [Effective Dart for mobile developers](https://www.meetup.com/Flutter-Denver/events/269189678) |
 
 
 #### *Past*
@@ -100,6 +99,7 @@ We can help each other as contributing and sharing.
 | :tr: | 24.03.2020 | Flutter Turkiye | [Flutter Turkiye Online Meetup #1](https://www.youtube.com/watch?v=UhmHNORQY4s&feature=youtu.be) |
 | :uk: | 24.03.2020 | Flutter Warsaw | [Testing in Flutter + What makes Flutter performant](https://zoom.us/j/107931099) |
 | :uk: | 25.03.2020 | Flutter Sweden | [Get started with Flutter](https://www.youtube.com/watch?v=tTqTtzqxzvM&feature=youtu.be) |
+| :uk: | 07.04.2020 | Flutter Denver | [Effective Dart for mobile developers](https://www.meetup.com/Flutter-Denver/events/269189678) |
 
 
 ## Foundations
@@ -156,13 +156,13 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 14.05.2020 | Charles Max Wood | [JavaScript Remote Conf 2020](https://www.eventbrite.com/e/javascript-remote-conf-2020-tickets-98023215075?aff=ebdssbonlinesearch) |
 | :uk: | 23.04.2020 | Hack Reactor | [JavaScript 101](https://www.eventbrite.com/e/webinar-javascript-101-tickets-90830132371?aff=ebdssbonlinesearch) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :uk: | 26.03.2020 | Hack Reactor | [JavaScript 101](https://www.eventbrite.com/e/webinar-javascript-101-tickets-90830132371?aff=ebdssbonlinesearch) |
+| :uk: | 14.05.2020 | Charles Max Wood | [JavaScript Remote Conf 2020](https://www.eventbrite.com/e/javascript-remote-conf-2020-tickets-98023215075?aff=ebdssbonlinesearch) |
 
 
 ## Kotlin
@@ -194,31 +194,30 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :ru: | 11.04.2020 | Skyeng ITeam | [Public Dispute about TDD](https://meetups-online.ru/tdd-holywar) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :ru: | 28.03.2020 | Skyeng ITeam | [Virtual PHP Meetup](https://meetups-online.ru/virtual_php_meetup) |
+| :ru: | 11.04.2020 | Skyeng ITeam | [Public Dispute about TDD](https://meetups-online.ru/tdd-holywar) |
 
 
 ## Python
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :tr: | 07.04.2020 | Python Istanbul | [Python Saati #104 - Pylint ile Python Kod Kalitesini Yönetmek](https://www.meetup.com/tr-TR/python-istanbul/events/269854381/) | 
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :tr: | 24.03.2020 | Python Istanbul | [Python Saati #102 - Celery ile görev tabanlı mimariye giriş](https://youtu.be/dBY1f3tj3mM) |
 | :tr: | 31.03.2020 | Python Istanbul | [Python Saati #103 - Matematiksel ve Felsefi Olarak Monadlar](https://youtu.be/KkfCFUS_UNA) |
+| :tr: | 07.04.2020 | Python Istanbul | [Python Saati #104 - Pylint ile Python Kod Kalitesini Yönetmek](https://www.meetup.com/tr-TR/python-istanbul/events/269854381/) | 
 
 ## React
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 09.04.2020 | Wild Code School | [Build your first React App](https://www.eventbrite.co.uk/e/online-tech-workshop-build-your-first-react-app-tickets-100509935924?aff=ebdssbonlinesearch) |
 | :uk: | 29.04.2020 | Wild Code School | [Building mobile application using React native](https://www.eventbrite.co.uk/e/online-tech-workshop-building-mobile-application-using-react-native-tickets-100911216164?aff=ebdssbonlinesearch) |
 | :uk: | 17.04.2020 | React Summit | [Remote Edition 2020](https://www.eventbrite.com/e/react-summit-remote-edition-2020-tickets-68861704211?aff=ebdssbonlinesearch) |
 
@@ -226,6 +225,7 @@ We can help each other as contributing and sharing.
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
 | :uk: | 31.03.2020 | Wizeline Academy | [React Context for State Management](https://www.eventbrite.com/e/react-context-for-state-management-online-talk-tickets-100854155494?aff=ebdssbonlinesearch) |
+| :uk: | 09.04.2020 | Wild Code School | [Build your first React App](https://www.eventbrite.co.uk/e/online-tech-workshop-build-your-first-react-app-tickets-100509935924?aff=ebdssbonlinesearch) |
 
 ## Ruby
 #### *Upcoming*
