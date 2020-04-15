@@ -8,6 +8,7 @@ We can help each other as contributing and sharing.
 
 ## Categories:
 *  [Android](#android)
+*  [Azure](#azure)
 *  [Cloud](#cloud)
 *  [Data Science](#data-science)
 *  [Docker](#docker)
@@ -24,7 +25,6 @@ We can help each other as contributing and sharing.
 *  [Ruby](#ruby)
 *  [UI/UX](#uiux)
 *  [IoT](#iot)
-*  [Azure](#azure)
 
 ## Android
 #### *Upcoming*
