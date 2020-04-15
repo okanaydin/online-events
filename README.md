@@ -24,6 +24,7 @@ We can help each other as contributing and sharing.
 *  [Ruby](#ruby)
 *  [UI/UX](#uiux)
 *  [IoT](#iot)
+*  [Azure](#azure)
 
 ## Android
 #### *Upcoming*
@@ -237,3 +238,14 @@ We can help each other as contributing and sharing.
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
 | :tr: | 31.03.2020 | IoT Türkiye | Kahve Sohbetleri (Online Etkinlik) | [link](https://ioturkiye.com/2020/03/kahve-sohbetleri-31-mart-2020-online-etkinlik/) |
+
+## Azure
+#### *Upcoming*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| :tr: | 20-21.04.2020 | Kadir Has Üniversitesi | Microsoft Azure Eğitimi | [link](https://ybea.khas.edu.tr/programs/microsoft-azure-egitimi-egitim-microsoft-teams-uzerinden-ucretsiz-olarak-gerceklesecektir-42) |
+		
+
+#### *Past*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
