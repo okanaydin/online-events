@@ -46,6 +46,7 @@ We can help each other as contributing and sharing.
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
 | :tr: | 20-21.04.2020 | Kadir Has Üniversitesi | Microsoft Azure Eğitimi | [link](https://ybea.khas.edu.tr/programs/microsoft-azure-egitimi-egitim-microsoft-teams-uzerinden-ucretsiz-olarak-gerceklesecektir-42) |
+| :tr: | 21.04.2020 | Microsoft | DevOps Kültürü ve Azure DevOps Webinar'ı | [link](https://aka.ms/devlerazuredadevops) |
 		
 
 #### *Past*
