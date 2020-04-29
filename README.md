@@ -58,11 +58,12 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name  | 
 | --- | --- | --- | --- | 
-| :tr: | 26.03.2020 | Women Techmakers Istanbul | [IWD Istanbul 2020](https://gdg.ist/iwd20) |
+
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :tr: | 26.03.2020 | Women Techmakers Istanbul | [IWD Istanbul 2020](https://gdg.ist/iwd20) |
 | :tr: | 02.04.2020 | Google Cloud Developer Community Istanbul | [Serverless Containers with Knative and Cloud Run](https://www.meetup.com/GDG-Cloud-Istanbul/events/269509331/) |
 | :tr: | 26.03.2020 | Google Cloud Developer Community Istanbul | [Puppeteer can automate that!](https://www.meetup.com/GDG-Cloud-Istanbul/events/269563485/) |
 
@@ -93,11 +94,12 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :tr: | 26.03.2020 | Women Techmakers Istanbul | [IWD Istanbul 2020](https://gdg.ist/iwd20) |
+
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :tr: | 26.04.2020 | Women Techmakers Istanbul | [IWD Istanbul 2020](https://gdg.ist/iwd20) |
 | :uk: | 07.04.2020 | Flutter Denver | [Effective Dart for mobile developers](https://www.meetup.com/Flutter-Denver/events/269189678) |
 | :uk: | 25.03.2020 | Flutter Sweden | [Get started with Flutter](https://www.youtube.com/watch?v=tTqTtzqxzvM&feature=youtu.be) |
 | :uk: | 24.03.2020 | Flutter Warsaw | [Testing in Flutter + What makes Flutter performant](https://zoom.us/j/107931099) |
@@ -224,12 +226,12 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 29.04.2020 | Wild Code School | [Building mobile application using React native](https://www.eventbrite.co.uk/e/online-tech-workshop-building-mobile-application-using-react-native-tickets-100911216164?aff=ebdssbonlinesearch) |
 
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :uk: | 29.04.2020 | Wild Code School | [Building mobile application using React native](https://www.eventbrite.co.uk/e/online-tech-workshop-building-mobile-application-using-react-native-tickets-100911216164?aff=ebdssbonlinesearch) |
 | :uk: | 17.04.2020 | React Summit | [Remote Edition 2020](https://www.eventbrite.com/e/react-summit-remote-edition-2020-tickets-68861704211?aff=ebdssbonlinesearch) |
 | :uk: | 09.04.2020 | Wild Code School | [Build your first React App](https://www.eventbrite.co.uk/e/online-tech-workshop-build-your-first-react-app-tickets-100509935924?aff=ebdssbonlinesearch) |
 | :uk: | 31.03.2020 | Wizeline Academy | [React Context for State Management](https://www.eventbrite.com/e/react-context-for-state-management-online-talk-tickets-100854155494?aff=ebdssbonlinesearch) |
