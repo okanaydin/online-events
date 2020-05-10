@@ -45,9 +45,6 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name  | 
 | --- | --- | --- | --- | 
-| :tr: | 03.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #3: Kim On-Call olmalı, neden ve nasıl](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-3-kim-on-call-olmali-neden-ve-nasil-24a94df1) |
-| :tr: | 06.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #4: AWS Bulut Altyapısı Bileşenleri](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-4-aws-bulut-altyapisi-bilesenleri-8fe02b6e) |
-| :tr: | 09.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #5: Bulutta ve kendi sunucularınızda Kubernetes](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-5-bulutta-ve-kendi-sunucularinizda-kubernetes-dfec6279) |
 | :tr: | 10.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Kubernetes Hands-On #2: What is deployment, pod and service?](https://kommunity.com/cloud-and-serverless-turkey/events/kubernetes-hands-on-2-what-is-deployment-pod-and-service-06b07bda) |
 | :tr: | 12.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #6: DevOps vs SRE](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-6-devops-vs-sre-41220ba0) |
 | :us: | 13.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Full stack development with AWS Amplify](https://kommunity.com/cloud-and-serverless-turkey/events/full-stack-development-with-aws-amplify-03976368) |
@@ -58,6 +55,9 @@ We can help each other as contributing and sharing.
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :tr: | 09.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #5: Bulutta ve kendi sunucularınızda Kubernetes](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-5-bulutta-ve-kendi-sunucularinizda-kubernetes-dfec6279) |
+| :tr: | 06.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #4: AWS Bulut Altyapısı Bileşenleri](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-4-aws-bulut-altyapisi-bilesenleri-8fe02b6e) |
+| :tr: | 03.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #3: Kim On-Call olmalı, neden ve nasıl](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-3-kim-on-call-olmali-neden-ve-nasil-24a94df1) |
 | :tr: | 02.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Kubernetes Hands-On #1: Kubernetes Installation, The Hard Way](https://kommunity.com/cloud-and-serverless-turkey/events/kubernetes-hands-on-1-kubernetes-installation-the-hard-way-7bf5e75f) |
 | :tr: | 30.04.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #2: NoSQL nedir ve ne zaman kullanılmalı](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-2-nosql-nedir-ve-ne-zaman-kullanilmali-0e8533fb) |
 | :tr: | 27.04.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #1: Gerçek hayatta Serverless](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-1-gercek-hayatta-serverless-aec20333) |
@@ -160,11 +160,11 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :uk: | 14.05.2020 | Charles Max Wood | [JavaScript Remote Conf 2020](https://www.eventbrite.com/e/javascript-remote-conf-2020-tickets-98023215075?aff=ebdssbonlinesearch) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :uk: | 14.05.2020 | Charles Max Wood | [JavaScript Remote Conf 2020](https://www.eventbrite.com/e/javascript-remote-conf-2020-tickets-98023215075?aff=ebdssbonlinesearch) |
 | :uk: | 23.04.2020 | Hack Reactor | [JavaScript 101](https://www.eventbrite.com/e/webinar-javascript-101-tickets-90830132371?aff=ebdssbonlinesearch) |
 | :uk: | 26.03.2020 | Hack Reactor | [JavaScript 101](https://www.eventbrite.com/e/webinar-javascript-101-tickets-90830132371?aff=ebdssbonlinesearch) |
 
