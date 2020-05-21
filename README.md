@@ -45,16 +45,16 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name  | 
 | --- | --- | --- | --- | 
-| :tr: | 10.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Kubernetes Hands-On #2: What is deployment, pod and service?](https://kommunity.com/cloud-and-serverless-turkey/events/kubernetes-hands-on-2-what-is-deployment-pod-and-service-06b07bda) |
-| :tr: | 12.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #6: DevOps vs SRE](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-6-devops-vs-sre-41220ba0) |
-| :us: | 13.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Full stack development with AWS Amplify](https://kommunity.com/cloud-and-serverless-turkey/events/full-stack-development-with-aws-amplify-03976368) |
-| :tr: | 15.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #7: FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-7-faas-serverless-aws-lambda-problemleri-ve-cozumleri-5888dd48) |
-| :tr: | 17.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Kubernetes Hands-On #3: Volume And Configuration Management](https://kommunity.com/cloud-and-serverless-turkey/events/kubernetes-hands-on-3-volume-and-configuration-management-2547c2f3) |
-| :tr: | 18.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #8: Bulutta Yüksek Performanslı ve Verimli Sistem Tasarlama](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-8-bulutta-yuksek-performansli-ve-verimli-sistem-tasarlama-a72398fb) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :tr: | 18.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #8: Bulutta Yüksek Performanslı ve Verimli Sistem Tasarlama](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-8-bulutta-yuksek-performansli-ve-verimli-sistem-tasarlama-a72398fb) |
+| :tr: | 17.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Kubernetes Hands-On #3: Volume And Configuration Management](https://kommunity.com/cloud-and-serverless-turkey/events/kubernetes-hands-on-3-volume-and-configuration-management-2547c2f3) |
+| :tr: | 15.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #7: FaaS - Serverless (AWS Lambda) Problemleri ve Çözümleri](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-7-faas-serverless-aws-lambda-problemleri-ve-cozumleri-5888dd48) |
+| :us: | 13.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Full stack development with AWS Amplify](https://kommunity.com/cloud-and-serverless-turkey/events/full-stack-development-with-aws-amplify-03976368) |
+| :tr: | 12.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #6: DevOps vs SRE](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-6-devops-vs-sre-41220ba0) |
+| :tr: | 10.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Kubernetes Hands-On #2: What is deployment, pod and service?](https://kommunity.com/cloud-and-serverless-turkey/events/kubernetes-hands-on-2-what-is-deployment-pod-and-service-06b07bda) |
 | :tr: | 09.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #5: Bulutta ve kendi sunucularınızda Kubernetes](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-5-bulutta-ve-kendi-sunucularinizda-kubernetes-dfec6279) |
 | :tr: | 06.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #4: AWS Bulut Altyapısı Bileşenleri](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-4-aws-bulut-altyapisi-bilesenleri-8fe02b6e) |
 | :tr: | 03.05.2020 | [Cloud and Serverless Turkey](https://kommunity.com/cloud-and-serverless-turkey) | [Ramazan Özel #3: Kim On-Call olmalı, neden ve nasıl](https://kommunity.com/cloud-and-serverless-turkey/events/ramazan-ozel-3-kim-on-call-olmali-neden-ve-nasil-24a94df1) |
