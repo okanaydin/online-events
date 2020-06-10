@@ -212,7 +212,7 @@ We can help each other as contributing and sharing.
 | :tr: | 18.05.2020 | [Potterhead⚡️](https://kommunity.com/potterhead) | [Ders 2: Bug temizliği, yeni PHP fonksiyonları ve OOP Giriş](https://kommunity.com/potterhead/events/ders-2-d6ee72f9) |
 | :tr: | 16.05.2020 | [Potterhead⚡️](https://kommunity.com/potterhead) | [Ders 1¾: GitHub Express](https://kommunity.com/potterhead/events/ders-1-github-express-20529471) |
 | :tr: | 15.05.2020 | [Potterhead⚡️](https://kommunity.com/potterhead) | [Ders 1: Şablonlama ve Web Servis Kullanımı](https://kommunity.com/potterhead/events/ders-1-sablonlama-ve-web-servis-kullanimi-c40da2e5) |
-| :tr: | 11.05.2020 | [Potterhead⚡️](https://kommunity.com/potterhead) | [Potterhead 101](https://kommunity.com/potterhead/events/potterhead-101-2c611ebe) |
+| :tr: | 11.05.2020 | [Potterhead⚡️](https://kommunity.com/potterhead) | [Potterhead 101](https://youtu.be/GuEe_iIvgIQ) |
 | :ru: | 11.04.2020 | Skyeng ITeam | [Public Dispute about TDD](https://meetups-online.ru/tdd-holywar) |
 | :ru: | 28.03.2020 | Skyeng ITeam | [Virtual PHP Meetup](https://meetups-online.ru/virtual_php_meetup) |
 
