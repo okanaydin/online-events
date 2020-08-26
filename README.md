@@ -121,13 +121,12 @@ We can help each other as contributing and sharing.
 #### *Upcoming*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
-| :us: | 31.07.2020 | Apple | [WWDC 2020](https://www.apple.com/newsroom/2020/03/apples-wwdc-2020-kicks-off-in-june-with-an-all-new-online-format) |
 
 #### *Past*
 | L | Date | Event Host | Event Name | 
 | --- | --- | --- | --- | 
+| :us: | 31.07.2020 | Apple | [WWDC 2020](https://www.apple.com/newsroom/2020/03/apples-wwdc-2020-kicks-off-in-june-with-an-all-new-online-format) |
 | :uk: | 24.03.2020 | Paul Hudson | [Swiftly Speaking: James Thomson](https://www.youtube.com/watch?v=-wZGaDajQk4) |
-
 
 
 ## IoT
